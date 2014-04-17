@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "i18next"
+  },
+  "menu": {
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "clients": "Clients",
+    "contacts":"Contacts",
+    "followus": "Follow us"
+  }
+}

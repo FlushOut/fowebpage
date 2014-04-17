@@ -1,0 +1,68 @@
+{
+  "add": "add",
+  "social": {
+    "content": [
+      "<span>Follow us</span>",
+      "<a href='#' class='icon-3'></a>",
+      "<a href='#' class='icon-2'></a>",
+      "<a href='#' class='icon-1'></a>"
+    ]
+  },
+  "slider": {
+    "slider1": "The Next Level of Your Success ",
+    "slider2": "We Offer Different Ways of Problem Solving ",
+    "slider3": "We Craft Practical Solutions " 
+  },
+  "p0b1": {
+    "content": [
+      "<h2 class='top-1 p0'>We Will Show You The Way To Success!</h2>",
+      "<p class='p2'>FlushOut is a software services company that provides easily customizable products and comprehensive solutions, which are focused on optimatización of your business processes. We use modern tools of work for the development of our solutions and obtain quality products and solutions for our clients.</p>"
+    ]
+  },
+  "b1p1":{
+    "content":[
+      "<div>",
+        "<h3>We work For You</h3>",
+        "<img src='images/page1-img1.jpg' alt='' class='img-border'>",
+        "<p>We are willing to provide quality services and products to the needs of each of our clients.</p>",
+        "<a href='#' class='button'>More</a>",
+      "</div>",
+      "<div>",
+        "<h3>Our Strategies</h3>",
+        "<img src='images/page1-img2.jpg' alt='' class='img-border'>",
+        "<p>We have most modern management tools in the market, for the required quality standards.</p>",
+        "<a href='#' class='button'>More</a>",
+        "</div>",
+      "<div class='last'>",
+        "<h3>Clients Choose Us</h3>",
+        "<img src='images/page1-img3.jpg' alt='' class='img-border'>",
+        "<p>We understand the needs of our customers and their industry, which is why we offer the best solutions.</p>",
+        "<a href='#' class='button'>More</a>",
+      "</div>"
+    ]
+  },
+  "p2b2":{
+    "content":[
+      "<div>",
+        "<h3 class='p3'>Advance Your Business!</h3>",
+        "<p class='p4'>In these times it is important to automate processes in order to provide quality services and minimize the times of their processes, which is why we help make this possible.</p>",
+        "<a href='#' class='button'>Mas</a>",
+      "</div>",
+      "<div class='last'>",
+        "<h3 class='p3'>Choose Better!</h3>",
+        "<p class='p4'>Use our quality services for the proper functioning of your processes, our solutions will not have performance problems and you can work more efficiently.</p>",
+        "<a href='#' class='button'>Mas</a>",
+      "</div>"             
+    ]
+  },
+  "menu": {
+    "content": [
+      "<li class='home-page current'><a href='index.html?lang=en'><span></span></a></li>",
+      "<li><a href='about.html?lang=en'>About</a></li>",
+      "<li><a href='services.html?lang=en'>Services</a></li>",
+      "<li><a href='projects.html?lang=en'>Projects</a></li>",
+      "<li><a href='clients.html?lang=en'>Clients</a></li>",
+      "<li><a href='contacts.html?lang=en'>Contacts</a></li>"
+    ]
+  }
+}

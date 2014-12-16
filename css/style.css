@@ -86,7 +86,8 @@ h1 {margin:27px 0 0 23px; display:inline-block; z-index:100}
 .icon-1 {background:url(../images/icon-1.png) 0 0 no-repeat}
 .icon-2 {background:url(../images/icon-2.png) 0 0 no-repeat; margin-left:7px}
 .icon-3 {background:url(../images/icon-3.png) 0 0 no-repeat; margin-left:7px}
-.social-icons a:hover {background-color:#000}
+.icon-4 {background:url(../images/icon-4.png) 0 0 no-repeat; margin-left:7px}
+.social-icons a:hover {background-color:#000;  border-radius:-10px}
 
 nav {z-index:100; border-radius:12px; background:#ebebec; margin:22px 6px 0 6px; padding:4px}
 nav>div {background:url(../images/nav.jpg) 0 0 repeat-x #55b7c8; border-radius:12px 8px 8px 12px}
